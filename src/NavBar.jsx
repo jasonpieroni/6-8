@@ -8,6 +8,7 @@ const NavBar = () => {
           <h1 className="nav-title">Red Sox Fan Page</h1>
           <h4 className="nav-link">Team Roster</h4>
           <h4 className="nav-link">Team Record</h4>
+          <h4>Tonight's Opponent: Colorado Rockies</h4>
         </nav>
       </header>
     )
