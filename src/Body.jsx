@@ -14,7 +14,7 @@ const Body = () => {
                 <li>CF: Jarren Duran</li>
                 <li>RF: Alex Verdugo</li>
                 <li>C: Reese McGuire</li>
-                <li>SP: Brayan Bello</li>
+                <li>SP: Josh Winckowski</li>
 
             </ul>
         </div>
