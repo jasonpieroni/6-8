@@ -6,7 +6,7 @@ const NavBar = () => {
         <nav className='nav'>
           <img src="/public/boston-red-sox-logo-transparent.png" className="redsox-image" />
           <h1 className="nav-title">Red Sox Fan Page</h1>
-          <h3>Tomorrow's Opponent: Texas Rangers</h3>
+          <h3>Tonight's Opponent: Texas Rangers</h3>
         </nav>
       </header>
     )
